@@ -1,11 +1,10 @@
 import './App.css'
-import Gallery from './components/gallery'
+import FormBoard from './views/FormBoard';
 
 function App() {
-
   return (
     <>
-      <Gallery/>
+      <FormBoard/>
     </>
   )
 }
